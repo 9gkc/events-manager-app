@@ -1,5 +1,12 @@
 # 📅 Events Manager Pro
 
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/9gkc/Eventify?style=for-the-badge&label=Last%20Update&color=58A6FF" alt="Last Update">
+  <img src="https://img.shields.io/github/stars/9gkc/Eventify?style=for-the-badge&color=58A6FF" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/9gkc/Eventify?style=for-the-badge&color=58A6FF" alt="GitHub Forks">
+</div>
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![LocalStorage](https://img.shields.io/badge/Storage-Local-blue?style=for-the-badge)
 ![Productivity](https://img.shields.io/badge/Tool-Productivity-orange?style=for-the-badge)
